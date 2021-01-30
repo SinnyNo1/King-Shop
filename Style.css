@@ -1,0 +1,7 @@
+.normaldiv {
+    background: linear-gradient(to right,#1C5FFC,#47daff);
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
